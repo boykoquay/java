@@ -1,0 +1,10 @@
+
+R
+java:S36554"5Call "result.isPresent()" before accessing the value.(Ä½†’8®­¯Æ†0
+
+java:S1186|"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(½¥ 8®­¯Æ†0
+M
+java:S5960"+Remove this assertion from production code.(µü©ñøÿÿÿÿ8®­¯Æ†0
+W
+java:S3655I"5Call "result.isPresent()" before accessing the value.(†æ¡Ôşÿÿÿÿ8®­¯Æ†0
+]	java:S125`"<This block of commented-out lines of code should be removed.(ê•¶øÿÿÿÿ8®­¯Æ†0
